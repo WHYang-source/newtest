@@ -8,6 +8,7 @@ public class Hellogit {
         	   System.out.println("主干");
         	   System.out.println("更新3");
         	   System.out.println("创建分支");
+        	   System.out.println("试多一次");
 
            }
 }
